@@ -11,12 +11,9 @@
 body{
   background: #ffffff;
   height: 100%;
-  border: 10px solid darkblue;   
+  border: 10px solid #2c2443;   
 }
 
-/* #logo {
-    width: 20%;
-} */
 
 .container{
     background-color: #fdb777;
@@ -82,7 +79,7 @@ body{
     align-items: center;
     height: 100vh;
     margin: 0;
-    background-color: #f0f0f0; /* Background color */
+    background-color: #FDEDCB; /* Background color */
 }
 
 .textured-button {
