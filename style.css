@@ -8,18 +8,15 @@
     box-sizing: border-box;
 }
 
-
-
 body{
   background: #ffffff;
   height: 100%;
   border: 10px solid darkblue;   
 }
 
-#YU_Logo {
+/* #logo {
     width: 20%;
-    float:left;
-}
+} */
 
 .container{
     background-color: #fdb777;
